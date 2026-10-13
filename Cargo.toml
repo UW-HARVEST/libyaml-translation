@@ -1,0 +1,13 @@
+[package]
+name = "libyamlrs"
+version = "0.1.0"
+edition = "2021"
+
+[lib]
+name = "libyamlrs"
+crate-type = ["cdylib"]
+
+[workspace]
+
+[features]
+default = []
